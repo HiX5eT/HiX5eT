@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hix5et&label=Profile%20views&color=0e75b6&style=flat" alt="hix5et" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hix5et" alt="hix5et" /></a> </p>
-
 - 🔭 I’m currently working on **DECEXE**
 
 - 💬 Ask me about **Unreal Engine, C++, Dart and Flutter**
