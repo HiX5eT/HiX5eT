@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DECEXE**
 
-- 💬 Ask me about **Unreal Engine, C++, Dart and Flutter**
+- 💬 Ask me about **Unreal Engine, C++, Haskell, Dart and Flutter**
 
 - 📫 How to reach me **emreozabay629@gmail.com**
 
