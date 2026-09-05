@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hix5et&label=Profile%20views&color=0e75b6&style=flat" alt="hix5et" /> </p>
 
-- 🔭 I’m currently working on **DECEXE**
+- 🔭 I’m currently working on **DECEXE and Haskell**
 
 - 💬 Ask me about **Unreal Engine, C++, Haskell, Dart and Flutter**
 
